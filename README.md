@@ -14,7 +14,7 @@ In this repo, we will examine the practicality and performance of hierarchical c
 2. [Foundations of Marketing Analytics](https://bit.ly/32UFibO)
  
 
-# HCA in Python
+# HCA
 
 To find the right balance between similarities and differences is exactly the same from a clustering perspective as to say maximizing the similarity within clusters and dissimilarity between clusters.
 
