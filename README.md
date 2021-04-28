@@ -1,5 +1,7 @@
 
-# Introduction
+# Identifying Groups
+
+## Introduction
 
 The objective of finding groups within data is to find the right balance between similarities and differences. 
 
@@ -14,7 +16,7 @@ In this repo, we will examine the practicality and performance of hierarchical c
 2. [Foundations of Marketing Analytics](https://bit.ly/32UFibO)
  
 
-# HCA
+## HCA
 
 To find the right balance between similarities and differences is exactly the same from a clustering perspective as to say maximizing the similarity within clusters and dissimilarity between clusters.
 
@@ -26,7 +28,7 @@ The clustering is then done by calling `linkage()` function from the module `sci
 Pretty simple, isn't it?!
 
 
-## Example 1: Stock Keeping Unit
+### Example 1: Stock Keeping Unit
 
 The first example is concerned with improving the inventory of a company. 
 Imagine that you're working as a supply and logistics manager, and want to organize your stock and delivery more efficiently. 
