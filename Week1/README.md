@@ -18,10 +18,7 @@ The purpose fo finding groups within data is to maximize your business efficienc
 
 In statistics, the similarity is  often measured with the distance between observations.
 
-- We may for instance take the euclidean distance:
-
-    $$d(\textbf p,\textbf q) = d(\textbf q,\textbf p) = \sqrt{\sum_{i=1}^{n}{(q_i - p_i)^2}}$$
-
+- We may for instance take the euclidean distance
 - This can be done with the `pdist()` function from `scipy.spatial.distance`
 - However before computing the euclidean distance between observations  we need to make sure that our variables are comparable.
 - What we can do in practice is to standardize the features in our data, this could be done with the function `scale()` from `sklearn.preprocessing`
