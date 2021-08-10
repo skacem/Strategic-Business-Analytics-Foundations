@@ -1,11 +1,6 @@
 
-<<<<<<< HEAD
-# Foundations of Strategic Business Analytics (in Python)
+# Foundations of Strategic Business Analytics (in Python)  
 % by ESSEC Business School
-=======
-# Foundations of strategic business analytics
-% by ESSEC Business School   
->>>>>>> 4c818a833a0aa7f8d8c747079365d911aec1e53c
 % Instructor: Nicolas Glady
 
 With this course, you’ll have a first overview on Strategic Business Analytics topics. We’ll discuss a wide variety of applications of Business Analytics. From Marketing to Supply Chain or Credit Scoring and HR Analytics, etc. We’ll cover many different data analytics techniques, each time explaining how to be relevant for your business.
